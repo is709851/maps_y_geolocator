@@ -4,7 +4,7 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:flutter_google_places/flutter_google_places.dart';
 import 'package:google_maps_webservice/places.dart';
 
-const kGoogleApiKey = "AIzaSyBCx1rqAUqfjCN_cfvYd5n34BvH_GQ99X4";
+const kGoogleApiKey = "API_KEY";
 
 GoogleMapsPlaces _places = GoogleMapsPlaces(apiKey: kGoogleApiKey);
 
